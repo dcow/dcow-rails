@@ -4,7 +4,7 @@
 
 ### What's here?
 
-This is a Ruby on Rails version of my personal website.  Currently it's build with mostly-static pages (as [Hartl calls it](http://railstutorial.org/book).  Perhaps it will evolve into a dynamic site in the future.
+This is a Ruby on Rails version of my personal website.  Currently it's build with mostly-static pages (as [Hartl calls it](http://railstutorial.org/book)).  Perhaps it will evolve into a dynamic site in the future.
 
 ### Features
 
